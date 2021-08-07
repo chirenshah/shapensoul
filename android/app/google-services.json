@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "735561125897",
+    "firebase_url": "https://shapensoul-e1bb8.firebaseio.com",
+    "project_id": "shapensoul-e1bb8",
+    "storage_bucket": "shapensoul-e1bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735561125897:android:44cabbf8f282c07e0ae8d8",
+        "android_client_info": {
+          "package_name": "com.fluttersns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735561125897-jr28q1pj9a8upjd1khs3akctpbdvq88q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fluttersns",
+            "certificate_hash": "1091e420e58634cc1f94f3fb0d915af1c376e04f"
+          }
+        },
+        {
+          "client_id": "735561125897-nmlkr9tkifnk6seia23bmdegc1hn3m2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fluttersns",
+            "certificate_hash": "ef49faa50236cc58ed92c95861cc879d01d2743f"
+          }
+        },
+        {
+          "client_id": "735561125897-0hbcmsm1fr7dmj4rgo1dmkkdqb7ft6m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4Fj4t_vbDI5QusMq5XOmEGrtLIekCrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735561125897-0hbcmsm1fr7dmj4rgo1dmkkdqb7ft6m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735561125897:android:e6ff8830257c91600ae8d8",
+        "android_client_info": {
+          "package_name": "com.shapensoul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735561125897-atn0pc2bv0jdbb8oj6bpqst5t8uikloh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shapensoul",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "735561125897-77hrde20l0mjsvgk4vqpf4ojggmnhpgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shapensoul",
+            "certificate_hash": "0e976baf60168eb7df8a2a32ef0baa77fe730a8a"
+          }
+        },
+        {
+          "client_id": "735561125897-0hbcmsm1fr7dmj4rgo1dmkkdqb7ft6m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4Fj4t_vbDI5QusMq5XOmEGrtLIekCrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735561125897-0hbcmsm1fr7dmj4rgo1dmkkdqb7ft6m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
